@@ -85,5 +85,5 @@ Query: [3_retention_analysis](/3_retention_analysis.sql)
 - Implement proactive intervention system for at-risk customers before they lapse
 
 ## Technical Details
-- **Database:** PostgreSQL
+- **Database:** PostgreSQL, DBeaver, PGadmin
 - **Analysis Tools:** PostgreSQL
